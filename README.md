@@ -1,7 +1,7 @@
-# FastAPI User Authentication - Test Driven Development (TDD)
+# Auto Generating Migrations (FastAPI + SQLAlchemy + Alembic)
 
 ### Video Tutorial
-[Click here](#)
+[Click here](https://youtu.be/HuOG7VS8qvE)
 
 ### Installation & Configuration
 - Clone this repository in your local machine by typing `git@github.com:Describly/fastapi-sqlalchemy-alembic.git`. 
